@@ -26,6 +26,7 @@
     * Flats have increased attack power and defense
     * Stacks have increased range
     * Hybrid combine the benefits of flats and stacks
+    * A stack vs. equivalent flat should die at the same time 
 * Basic units have 1 attack and 3 defense
 * There is no attack cool down
 * Rate of point accruement cannot increase via production upgrades 
