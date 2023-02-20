@@ -29,6 +29,8 @@
 * Basic units have 1 attack and 3 defense
 * There is no attack cool down
 * Rate of point accruement cannot increase via production upgrades 
+* There is no fog
+* Turn time is equivalent to the number of points on the board
 
 ## The resource collection version of Folder's Gambit
 
