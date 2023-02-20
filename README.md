@@ -22,6 +22,10 @@
 * Board is appropriately sized for fitting on a phone screen
 * Units cannot be individually upgraded
 * Units can be joined into a single unit
+    * Joins have 3 variants: flat, stacked, and hybrid
+    * Flats have increased attack power and defense
+    * Stacks have increased range
+    * Hybrid combine the benefits of flats and stacks
 * Basic units have 1 attack and 3 defense
 * There is no attack cool down
 * Rate of point accruement cannot increase via production upgrades 
