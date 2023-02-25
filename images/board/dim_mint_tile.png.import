@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/R=6_hexagonal_board_(transparent).png-7f37f32dee635608ed7e0e612a2248dc.stex"
+path="res://.import/dim_mint_tile.png-b38aa7d06d337871405643d876d96d61.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://R=6_hexagonal_board_(transparent).png"
-dest_files=[ "res://.import/R=6_hexagonal_board_(transparent).png-7f37f32dee635608ed7e0e612a2248dc.stex" ]
+source_file="res://images/board/dim_mint_tile.png"
+dest_files=[ "res://.import/dim_mint_tile.png-b38aa7d06d337871405643d876d96d61.stex" ]
 
 [params]
 

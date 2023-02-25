@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/R=6_hexagonal_board_(grey).png-5509f04835b5d32fa3ab3296d7f2ee61.stex"
+path="res://.import/R=6_hexagonal_board_(transparent).png-8c7b17249a1414dcd4668b229ade82af.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://R=6_hexagonal_board_(grey).png"
-dest_files=[ "res://.import/R=6_hexagonal_board_(grey).png-5509f04835b5d32fa3ab3296d7f2ee61.stex" ]
+source_file="res://images/board/R=6_hexagonal_board_(transparent).png"
+dest_files=[ "res://.import/R=6_hexagonal_board_(transparent).png-8c7b17249a1414dcd4668b229ade82af.stex" ]
 
 [params]
 
